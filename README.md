@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dorien</h1>
+<h1 align="center">Hi, I'm Dorien</h1>
 <h3 align="center">I'm a PhD Scientist and Le Wagon Data Science graduate, </h3>
 <h3 align="center">passionate about AI driving positive change in healthcare and climate change.</h3>
 
-- 🔭 I’m currently working on [lung-pollution](https://github.com/dorien-er/lung_pollution)
+- :seedling: I’m currently working on [lung-pollution](https://github.com/dorien-er/lung_pollution)
 
-- 🌱 I’m currently learning **AI for Medicine Specialization, Climate Change Forecasting Using Deep Learning**
+- :brain: I’m currently learning **AI for Medicine Specialization, Climate Change Forecasting Using Deep Learning**
 
-- 📫 You can reach me at **roosen.dorien@gmail.com**
+- :envelope: You can reach me at **roosen.dorien@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
