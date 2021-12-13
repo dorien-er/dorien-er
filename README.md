@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dorien-roosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorien-roosen" height="30" width="40" /></a><a href="https://dorien-roosen.notion.site/Dorien-Roosen-2b571b926ee047058760635dfd551b7f" target="blank"><img align="center" src="https://image.pngaaa.com/402/486402-middle.png" alt="dorien-roosen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dorien-roosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorien-roosen" height="30" width="40" /></a><a href="https://dorien-roosen.notion.site/Dorien-Roosen-2b571b926ee047058760635dfd551b7f" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/244-2448537_spartan-png-world-wide-web-icon-png-transparent.png" alt="dorien-roosen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
