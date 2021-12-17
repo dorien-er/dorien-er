@@ -10,9 +10,6 @@ I am currently further developing my data science skills by
 - :seedling:  Working on personal projects, including [lung-pollution](https://github.com/dorien-er/lung_pollution)
 
 - :brain:  Enrollment in specialization courses, including **AI for Medicine **
-
-- :envelope:  You can reach me at **roosen.dorien@gmail.com**
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
