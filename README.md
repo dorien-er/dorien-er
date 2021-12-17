@@ -16,7 +16,7 @@ I am currently further developing my data science skills by
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dorien-roosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorien-roosen" height="30" width="40" /></a>
-<a href="https://www.dorien-roosen.com" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/73-734861_similar-images-transparent-background-website-logo-png-png.png" alt="dorien-roosen" height="30" width="40" /></a>
+<a href="https://www.dorien-roosen.com" target="blank"><img align="center" src="https://key0.cc/images/preview/22816_e481dd72477c9c603090b2629cc4817b.png" alt="dorien-roosen" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
