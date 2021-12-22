@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Dorien</h1>
-<h3 align="center">As a data scientist with a background in natural science research, I am</h3>
-<h3 align="center">passionate about AI driving positive change in :microscope: biomedical and :seedling: sustainability settings.</h3>
+<h3 align="center">As a data scientist with a background in natural science research, I am passionate </h3>
+<h3 align="center">about AI driving positive change in :microscope: biomedical and :seedling: sustainability settings.</h3>
+<br>
+<br>
 <p align="left">
 
   
@@ -13,8 +15,9 @@
 - :brain: I'm learning [AI for Medicine Specialization](https://www.deeplearning.ai/program/ai-for-medicine-specialization/)
 
 - :incoming_envelope: You can reach me at [roosen.dorien@gmail.com](mailto:roosen.dorien@gmail.com)
-  
-  
+  <br>
+  <br>
+</p>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
