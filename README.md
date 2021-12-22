@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Dorien</h1>
 <h3 align="center">As a data scientist with a background in natural science research, </h3>
-<h3 align="center">passionate about AI driving positive change in :stethoscope: biomedical and :seedling: sustainability settings.</h3>
+<h3 align="center">passionate about AI driving positive change in :microscope: biomedical and :seedling: sustainability settings.</h3>
 <br>
 <br>
 <p align="left">
 
   
-- :seedling: I'm currently working on personal projects, including [lung-pollution](https://github.com/dorien-er/lung_pollution)
+- :seedling: I'm currently working on [lung-pollution](https://github.com/dorien-er/lung_pollution)
   
 - :books: Find out more about my projects on my [portfolio website](https://www.dorien-roosen.com)
   
 - :sparkles: Learn about my experiences on [LinkedIn](https://www.linkedin.com/in/dorien-roosen/)
 
-- :brain: I'm further developing my data science skills by enrollment in specialization courses, including AI for Medicine
+- :brain: I'm learning [AI for Medicine Specialization](https://www.deeplearning.ai/program/ai-for-medicine-specialization/)
 
-- :incoming_envelope: You can reach me at roosen.dorien@gmail.com
+- :incoming_envelope: You can reach me at [roosen.dorien@gmail.com](mailto:roosen.dorien@gmail.com)
   
   
 
