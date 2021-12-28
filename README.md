@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Dorien</h1>
-<h3 align="center">As a data scientist with a background in natural science research, I am passionate </h3>
-<h3 align="center">about AI driving positive change in :microscope: biomedical and :seedling: sustainability settings.</h3>
+<h3 align="center">A data scientist with a background in natural science research and bio-engineering </h3>
 <br>
 <br>
 <p align="left">
