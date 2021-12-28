@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dorien</h1>
-<h3 align="center">A data scientist with a background in natural science research and bio-engineering </h3>
+<h3 align="center">A Berlin-based data scientist with a background in natural science research</h3>
 <br>
 <br>
 <p align="left">
