@@ -3,9 +3,6 @@
 <br>
 <br>
 <p align="left">
-
-  
-- :seedling: I'm currently working on [lung-pollution](https://github.com/dorien-er/lung_pollution)
   
 - :books: Find out more about my projects on my [portfolio website](https://www.dorien-roosen.com)
   
