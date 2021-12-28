@@ -12,8 +12,6 @@
   
 - :sparkles: Learn about my experiences on [LinkedIn](https://www.linkedin.com/in/dorien-roosen/)
 
-- :brain: I'm learning [AI for Medicine Specialization](https://www.deeplearning.ai/program/ai-for-medicine-specialization/)
-
 - :incoming_envelope: You can reach me at [roosen.dorien@gmail.com](mailto:roosen.dorien@gmail.com)
   <br>
   <br>
