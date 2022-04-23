@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Dorien</h1>
-<h3 align="center">A Berlin-based data scientist with a background in natural science research</h3>
+<h3 align="center">A Berlin-based data scientist with a background in data-driven research</h3>
 <br>
 <br>
 <p align="left">
-  
-- :books: Find out more about my projects on my [portfolio website](https://www.dorien-roosen.com)
-  
+    
 - :sparkles: Learn about my experiences on [LinkedIn](https://www.linkedin.com/in/dorien-roosen/)
 
 - :incoming_envelope: You can reach me at [roosen.dorien@gmail.com](mailto:roosen.dorien@gmail.com)
